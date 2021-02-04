@@ -14,7 +14,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:svn:https://svn.mycompany.com/repos/myapplication/trunk/mycomponent/</developerConnection>
+        <connection>scm:git:https://github.com/monika-georgieva/maven-assignment-repo</connection>
         <tag>HEAD</tag>
     </scm>
 
